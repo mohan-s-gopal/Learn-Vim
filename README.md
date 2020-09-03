@@ -1,5 +1,5 @@
 # Learn Vim (the Smart Way)
-
+ 
 ## What is this about?
 *Learn Vim (the Smart Way)* is a book to learn the good parts of Vim.
 
